@@ -1,3 +1,3 @@
 # database-project
 
-Course project for CSE 3241
+Course project for Autumn 2021 CSE 3241
